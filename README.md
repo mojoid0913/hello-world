@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Mojoid here, I like Python and javascript.
+I'm studying in ajou university now.
